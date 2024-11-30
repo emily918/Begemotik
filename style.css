@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.a1{
+    text-decoration: none;
+    color: #CE8484;
+}
+nav h1{
+    color:#CE8484;
+}
+
+body{
+    background-color: #FEDEDE;
+    margin: 0;
+    padding: 0;
+}
+.a2{
+    text-decoration: none;
+    color: #CE8484;
+}
+.a3{
+   text-decoration: none;
+    color: #CE8484;
+}
+header h1{
+    text-align: center;
+    color: #CE8484;
+    font-family: Rubik Beastly;
+    font-weight: 400;
+}
+header p{
+    font-size: 32px;
+    color: #CE8484;
+}
+span{
+    color: #C39898;
+}
+.ch{
+    color: #C39898;
+}
+h2{
+    color: #987070;
+}
+nav{
+    padding: 10px;
+}
+nav a{
+    font-size: 20px;
+    margin-right: 40px;
+}
+main h1{
+    color: #AD88C6;
+}
+.perfume{
+    color: #850F8D;
+}
+h3{
+    color: #AD88C6
+}
+
+.squishi{
+color: #C39898;
+}
+.contact{
+    text-align: center;
+    color: #088395;
+}
+.c1{
+    color: #37B7C3;
+}
+footer h1{
+    text-align: center;
+    color: #4C3BCF;
+}
+main p{
+    color: #AD88C6;
+}
+.app{
+    border: 5px solid #AD88C6;
+    background-color: #dbadfa;
+    font-size: 32px;
+    border-radius: 15px;
+}
+
+
+footer{
+    background-color: #F0A9A9;
+    width: 40%;
+    padding: 15px;
+    padding-top: 0;
+    border-radius: 15px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+
+}
+
+footer div{
+    display: flex;
+    gap: 20px;
+}
+
